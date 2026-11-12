@@ -21,11 +21,14 @@
 
 ## O que a pessoa fez
 - Trouxe o desafio e pediu a análise inicial e a correção.
-- Propós o uso do BMad-Code-Review.
+- Propôs o uso do BMad-Code-Review.
 - Revisou todos os retornos da IA.
 - Autorizou os downloads e as instalações (projeto, `uv`, Python, BMad).
 - Aprovou a aplicação dos patches da revisão.
 - Responsável por conferir o resultado, publicar o repositório e enviar o formulário.
+
+## Observação da Luana
+Foquei meus estudos principalmente na parte de gestão de risco, construção de User Stories e regras de negócio, gestão ágil e sobre como as metodologias influenciam no fluxo de trabalho. Por isso, meu conhecimento na parte de código não é muito profundo e, por reconhecer isso, optei por usar meus conhecimentos com IA para executar o desafio. Apesar do próprio Claude ter resolvido o desafio tranquilamente de forma autônoma, optei por adicionar o BMad-Code-Review para assegurar a qualidade do código acima da média, porque ele consegue avaliar e buscar erros de diferentes pontos de vista.
 
 
 ## Sobre a exportação da sessão
